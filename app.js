@@ -12,6 +12,7 @@ p1Button.addEventListener('click', function() {
 	if (!isGameOver) {
 		p1Score += 1;
 		if (p1Score == winningScore) {
+			alert('Hello! I am an alert box!!');
 			isGameOver = true;
 		}
 		p1Display.textContent = p1Score;
