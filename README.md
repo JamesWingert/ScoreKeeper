@@ -1,4 +1,5 @@
 # ScoreKeeper
 Simple scorekeeper utilizing JavaScript, HTML, CSS
-![alt text](file:///C:/Users/James/Desktop/Learning/Web/ScoreKeeper/Score.jpg)
+![alt text](https://github.com/jameswingert/scorekeeper/blob//image.jpg?raw=true)
+
 
