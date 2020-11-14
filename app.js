@@ -26,3 +26,4 @@ p2Button.addEventListener('click', function() {
 		p2Display.textContent = p2Score;
 	}
 });
+test;
