@@ -1,4 +1,4 @@
 # ScoreKeeper
 Simple scorekeeper utilizing JavaScript, HTML, CSS
-![alt text](https://imgur.com/a/sWYZxtK)
+![alt text](file:///C:/Users/James/Desktop/Learning/Web/ScoreKeeper/Score.jpg)
 
